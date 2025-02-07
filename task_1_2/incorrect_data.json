@@ -1,0 +1,24 @@
+[
+    {
+        "file": "output-d3b4f4d8-109f-4a98-9df4-ef50dd223aa2.json",
+        "data": {
+            "id": "0fdbb8bc-de7c-435c-bd5c-698a3b9b8bfb",
+            "ndc": "00002323401",
+            "npi": "3333333333",
+            "price": 159228.0,
+            "timestamp": "2024-01-01T12:12:22"
+        },
+        "error": "1 validation error for ClaimSchema\nquantity\n  Field required [type=missing, input_value={'id': '0fdbb8bc-de7c-435...: '2024-01-01T12:12:22'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.10/v/missing"
+    },
+    {
+        "file": "output-f6320eed-35a7-46bb-8c57-59be6146e31f.json",
+        "data": {
+            "id": "c331a516-8fa9-4aac-bbdd-2c8858627887",
+            "ndc": "00078017705",
+            "npi": "3333333333",
+            "price": 159228.0,
+            "timestamp": "2024-01-01T12:12:22"
+        },
+        "error": "1 validation error for ClaimSchema\nquantity\n  Field required [type=missing, input_value={'id': 'c331a516-8fa9-4aa...: '2024-01-01T12:12:22'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.10/v/missing"
+    }
+]
